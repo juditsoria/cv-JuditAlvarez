@@ -1,0 +1,76 @@
+.nombre{
+    font-size: 50px;
+    background-color:  bisque;
+}
+
+.cabeza{
+background-color: bisque;
+display: flex;
+}
+.encabezado{
+   margin: 50px;
+}
+img{
+    height: 40px;
+    padding: 30px;
+}
+.github{
+    padding-top: 30px;
+}
+.correos{
+    display: flex;
+    flex-direction: row;
+}
+.web{
+    display: flex;
+    flex-direction: row;
+}
+.numero{
+    display: flex;
+    flex-direction: row;
+}
+.img1{
+    
+}
+.contacto{ 
+float: right;
+margin-left: 700px;
+margin-top: 50px;
+font-weight: bold;
+font-size: 30px;
+}
+.contenido{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    font-size: 20px;
+}
+.boton{
+    background-color: turquoise;
+    color: black;
+    font-weight:bold;
+    height: 130px;
+    width: 60px;
+}
+.exp-desarrolladora{
+     font-size: 20px;
+}
+.habilidades{
+    float: right;
+margin-left: 600px;
+}
+.educacion{
+
+}
+.exp-laboral{
+    float: right;
+margin-left: 800px;
+}
+.pie{
+    background-color: bisque;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}

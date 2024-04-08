@@ -34,8 +34,8 @@ Mira el resultado que esperas e identidica las etiquetas o tags, imágenes y que
 
 | Estrategia 1    | Estrategia 2    |
 | ----------    | ------        |
-| ![Strategy 1 Resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy.png?raw=true) | ![Strategy 2 resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) |
-
+| ![Strategy 1 Resume](.learn/assets/strategy.png?https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/straue) |
+tegy.png?raw=true) | ![Strategy 2 resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=tr
 
 ## 💡Tips para crear tu CV:
 
